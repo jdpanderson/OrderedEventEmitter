@@ -1,5 +1,5 @@
 {
-  "name": "OrderedEventEmitter",
+  "name": "orderedeventemitter",
   "version": "0.0.0",
   "description": "An EventEmitter extension with listener ordering support",
   "author": "Jonathan Anderson <janderson@janderson.ca>",
