@@ -1,0 +1,23 @@
+{
+  "name": "OrderedEventEmitter",
+  "version": "0.0.0",
+  "description": "An EventEmitter extension with listener ordering support",
+  "author": "Jonathan Anderson <janderson@janderson.ca>",
+  "homepage": "https://github.com/jdpanderson/OrderedEventEmitter",
+  "main": "./OrderedEventEmitter.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdpanderson/OrderedEventEmitter.git"
+  },
+  "keywords": ["eventemitter"],
+  "licenses": ["MIT"],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+	"jscoverage": "*"
+  },
+  "scripts": {
+      "test": "./node_modules/.bin/mocha test"
+  }
+}
